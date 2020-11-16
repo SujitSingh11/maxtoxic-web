@@ -18,7 +18,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 const api = axios.create({
-  baseURL: "http://35.238.222.53",
+  baseURL: "http://35.188.66.210",
 });
 
 const App = () => {
